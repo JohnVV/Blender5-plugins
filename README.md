@@ -3,7 +3,8 @@ for Blender 5 ( should ? run on Blender 4.5 exr/lts)
 ----- Import_cmod_mesh_parallel.py -----
 imports ONLY the ASCII format cmod
 
-![](../../Pictures/Screenshots/Screenshot_import.png)
+<img width="1915" height="1037" alt="Screenshot_import" src="https://github.com/user-attachments/assets/a658a659-a875-47c6-bc36-ee5bbcde4722" />
+
 
 for the CMOD import plugin the cmod MUST be in ASCII format
 use " cmodfix -a input.bin.cmod output.ascii.cmod " on the commandline

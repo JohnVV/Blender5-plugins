@@ -27,19 +27,18 @@ like the celestia addon file structure
 
 ----- Export_cmod_mesh_parallel.py -----
 
-if the textures are packed into the blend file use
+ALL textures must be using the "Principled BSDF" shader node 
 
+![](../../Pictures/Screenshots/Screenshot_shader_BSDF.png)
+
+if the textures are packed into the blend file use
 File / External Data / Unpack Resources
 
 or move them into the file structure above to use "cmodview-qt6"
 
 
 
-
-
 ----- io_import_LRO_Lola_MGS_Mola_img.py -----
-
-it installs to "3D Viewport > Sidebar > LRO/MGS" ( hit the "n" button)
 
 -- converts a 2d simple cylindrical DEM into a 3d spherical mesh --
 
@@ -52,6 +51,5 @@ points to the PDS3 archive
 
 https://pds-geosciences.wustl.edu/mgs/mgs-m-mola-5-megdr-l3-v1/mgsl_300x/meg004/
 
-megt90n000cb.img
-megt90n000cb.lbl
+megt90n000cb.img , megt90n000cb.lbl
 

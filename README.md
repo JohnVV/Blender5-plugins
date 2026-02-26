@@ -3,6 +3,8 @@ for Blender 5 ( should ? run on Blender 4.5 exr/lts)
 ----- Import_cmod_mesh_parallel.py -----
 imports ONLY the ASCII format cmod
 
+![](../../Pictures/Screenshots/Screenshot_import.png)
+
 for the CMOD import plugin the cmod MUST be in ASCII format
 use " cmodfix -a input.bin.cmod output.ascii.cmod " on the commandline
 
@@ -29,9 +31,7 @@ like the celestia addon file structure
 
 ALL textures must be using the "Principled BSDF" shader node 
 
-<img width="1915" height="1040" alt="Screenshot_shader_BSDF" src="https://github.com/user-attachments/assets/e233d2f7-ca67-4aa0-bcc3-c7d40cf423e6" />
-
-
+![](../../Pictures/Screenshots/Screenshot_shader_BSDF.png)
 
 if the textures are packed into the blend file use
 File / External Data / Unpack Resources

@@ -34,15 +34,21 @@ or move them into the file structure above to use "cmodview-qt6"
 
 
 
+
+
 ----- io_import_LRO_Lola_MGS_Mola_img.py -----
 
 -- converts a 2d simple cylindrical DEM into a 3d spherical mesh --
 
 imports NASA/JPL/USGS/... planet/moon PDS3 DEM's ( height maps)
 for example :
+
 https://pds-geosciences.wustl.edu/missions/mgs/megdr.html
+
 points to the PDS3 archive
+
 https://pds-geosciences.wustl.edu/mgs/mgs-m-mola-5-megdr-l3-v1/mgsl_300x/meg004/
+
 megt90n000cb.img
 megt90n000cb.lbl
 

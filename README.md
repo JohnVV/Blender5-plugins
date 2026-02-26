@@ -37,6 +37,7 @@ or move them into the file structure above to use "cmodview-qt6"
 
 
 ----- io_import_LRO_Lola_MGS_Mola_img.py -----
+it installs to "3D Viewport > Sidebar > LRO/MGS" ( hit the "n" button)
 
 -- converts a 2d simple cylindrical DEM into a 3d spherical mesh --
 

@@ -32,7 +32,11 @@ like the celestia addon file structure
 
 ALL textures must be using the "Principled BSDF" shader node 
 
-![](../../Pictures/Screenshots/Screenshot_shader_BSDF.png)
+<img width="1915" height="1040" alt="Screenshot_shader_BSDF" src="https://github.com/user-attachments/assets/fe339c60-f8df-4e70-844d-08f15b056760" />
+
+
+<img width="1916" height="1041" alt="Screenshot_export" src="https://github.com/user-attachments/assets/3b1edb0d-5b3c-4f48-a195-b85fc2d85c5b" />
+
 
 if the textures are packed into the blend file use
 File / External Data / Unpack Resources
@@ -42,6 +46,8 @@ or move them into the file structure above to use "cmodview-qt6"
 
 
 ----- io_import_LRO_Lola_MGS_Mola_img.py -----
+
+<img width="1919" height="1036" alt="Screenshot_MOLA" src="https://github.com/user-attachments/assets/cd7c129e-40b2-42e3-854a-5b0b89785869" />
 
 -- converts a 2d simple cylindrical DEM into a 3d spherical mesh --
 

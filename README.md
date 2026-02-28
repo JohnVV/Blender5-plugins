@@ -47,6 +47,10 @@ or move them into the file structure above to use "cmodview-qt6"
 
 ----- io_import_LRO_Lola_MGS_Mola_img.py -----
 
+rework of the orignal plugin for 2.58
+
+https://archive.blender.org/wiki/2015/index.php/Extensions:2.5/Py/Scripts/Import-Export/NASA_IMG_Importer/
+
 <img width="1919" height="1036" alt="Screenshot_MOLA" src="https://github.com/user-attachments/assets/cd7c129e-40b2-42e3-854a-5b0b89785869" />
 
 -- converts a 2d simple cylindrical DEM into a 3d spherical mesh --
